@@ -1,1 +1,1 @@
-## Experiment name
+## Critical radius of insulation
