@@ -10,7 +10,7 @@
         "correct_option": "c"
     },
     {
-        "question": "The conductive resistance of sphere is given by",
+        "question": "The critical radius of insulation for sphere is given by",
         "qid": 2,
         "option_a": "$$ r_c = \\frac{h_2}{k_2} $$",
         "option_b": "$$ r_c = \\frac{2k_2}{h_2} $$",
