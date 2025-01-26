@@ -1,11 +1,21 @@
 [
+
     {
-        "question": "Sample Question",
+        "question": "The critical radius of insulation for cylinder is given by",
         "qid": 1,
-        "option_a": "Option A",
-        "option_b": "Option B",
-        "option_c": "Option C",
-        "option_d": "Option D",
-        "correct_option": "a"
+        "option_a": "$$ r_c = \\frac{h_2}{k_2} $$",
+        "option_b": "$$ r_c = \\frac{2k_2}{h_2} $$",
+        "option_c": "$$ r_c = \\frac{k_2}{h_2} $$",
+        "option_d": "$$ r_c = \\frac{2h_2}{k_2} $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "The conductive resistance of sphere is given by",
+        "qid": 2,
+        "option_a": "$$ r_c = \\frac{h_2}{k_2} $$",
+        "option_b": "$$ r_c = \\frac{2k_2}{h_2} $$",
+        "option_c": "$$ r_c = \\frac{k_2}{h_2} $$",
+        "option_d": "$$ r_c = \\frac{2h_2}{k_2} $$",
+        "correct_option": "b"
     }
 ]
