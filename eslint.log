@@ -1,0 +1,228 @@
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/js/activity1.js
+   15:9    warning  'MathJax' is not defined                        no-undef
+   19:10   warning  'start_act1' is defined but never used          no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined          no-undef
+   34:33   warning  'r1' is not defined                             no-undef
+   34:44   warning  'L' is not defined                              no-undef
+   34:71   warning  'T1' is not defined                             no-undef
+   34:107  warning  'T2' is not defined                             no-undef
+   35:53   warning  'h' is not defined                              no-undef
+   35:123  warning  'K' is not defined                              no-undef
+   36:60   warning  'thick_A' is not defined                        no-undef
+   37:60   warning  'thick_B' is not defined                        no-undef
+   48:23   warning  Unnecessary escape character: \π                no-useless-escape
+   59:5    warning  'hide_all_steps' is not defined                 no-undef
+   61:9    warning  'MathJax' is not defined                        no-undef
+   64:9    warning  'show_step' is not defined                      no-undef
+   69:5    warning  'T1' is not defined                             no-undef
+   69:10   warning  'random1' is not defined                        no-undef
+   70:5    warning  'T2' is not defined                             no-undef
+   70:10   warning  'random1' is not defined                        no-undef
+   71:5    warning  'Q' is not defined                              no-undef
+   71:24   warning  'T1' is not defined                             no-undef
+   71:29   warning  'T2' is not defined                             no-undef
+   71:35   warning  'h' is not defined                              no-undef
+   71:39   warning  'r1' is not defined                             no-undef
+   73:34   warning  'T1' is not defined                             no-undef
+   73:39   warning  'T2' is not defined                             no-undef
+   73:56   warning  'r2' is not defined                             no-undef
+   73:61   warning  'r1' is not defined                             no-undef
+   73:67   warning  'K' is not defined                              no-undef
+   73:76   warning  'h' is not defined                              no-undef
+   73:80   warning  'r2' is not defined                             no-undef
+   74:9    warning  'data' is not defined                           no-undef
+   74:24   warning  'r2' is not defined                             no-undef
+   75:9    warning  'r2' is not defined                             no-undef
+   77:25   warning  'data' is not defined                           no-undef
+   78:13   warning  'Q' is not defined                              no-undef
+   78:17   warning  'data' is not defined                           no-undef
+   79:13   warning  'R' is not defined                              no-undef
+   79:17   warning  'data' is not defined                           no-undef
+   80:36   warning  'R' is not defined                              no-undef
+   80:39   warning  'data' is not defined                           no-undef
+   84:5    warning  'thick_A' is not defined                        no-undef
+   84:27   warning  'r_c' is not defined                            no-undef
+   84:33   warning  'r1' is not defined                             no-undef
+   85:5    warning  'thick_B' is not defined                        no-undef
+   85:33   warning  'R' is not defined                              no-undef
+   85:37   warning  'r1' is not defined                             no-undef
+   86:5    warning  'Q_A' is not defined                            no-undef
+   87:10   warning  'T1' is not defined                             no-undef
+   87:15   warning  'T2' is not defined                             no-undef
+   88:30   warning  'r_c' is not defined                            no-undef
+   88:37   warning  'r1' is not defined                             no-undef
+   88:58   warning  'L' is not defined                              no-undef
+   88:62   warning  'K' is not defined                              no-undef
+   89:42   warning  'r_c' is not defined                            no-undef
+   89:48   warning  'L' is not defined                              no-undef
+   89:52   warning  'h' is not defined                              no-undef
+   90:5    warning  'Q_B' is not defined                            no-undef
+   91:10   warning  'T1' is not defined                             no-undef
+   91:15   warning  'T2' is not defined                             no-undef
+   92:30   warning  'R' is not defined                              no-undef
+   92:35   warning  'r1' is not defined                             no-undef
+   92:56   warning  'L' is not defined                              no-undef
+   92:60   warning  'K' is not defined                              no-undef
+   93:42   warning  'R' is not defined                              no-undef
+   93:46   warning  'L' is not defined                              no-undef
+   93:50   warning  'h' is not defined                              no-undef
+   94:17   warning  'data' is not defined                           no-undef
+   95:22   warning  'R' is not defined                              no-undef
+   96:22   warning  'Q' is not defined                              no-undef
+   97:24   warning  'Q_A' is not defined                            no-undef
+   98:24   warning  'Q_B' is not defined                            no-undef
+  100:10   warning  'a1_verify_Q' is defined but never used         no-unused-vars
+  102:17   warning  'Q' is not defined                              no-undef
+  103:10   warning  'verify_values' is not defined                  no-undef
+  103:47   warning  'Q' is not defined                              no-undef
+  117:17   warning  Unnecessary escape character: \π                no-useless-escape
+  117:50   warning  'Q' is not defined                              no-undef
+  123:52   warning  'thick_A' is not defined                        no-undef
+  127:80   warning  Unnecessary escape character: \π                no-useless-escape
+  127:99   warning  Unnecessary escape character: \π                no-useless-escape
+  146:9    warning  'MathJax' is not defined                        no-undef
+  149:10   warning  'a1_verify_Q_A' is defined but never used       no-unused-vars
+  151:17   warning  'Q_A' is not defined                            no-undef
+  152:10   warning  'verify_values' is not defined                  no-undef
+  152:47   warning  'Q_A' is not defined                            no-undef
+  166:32   warning  'Q_A' is not defined                            no-undef
+  172:52   warning  'thick_B' is not defined                        no-undef
+  176:80   warning  Unnecessary escape character: \π                no-useless-escape
+  176:99   warning  Unnecessary escape character: \π                no-useless-escape
+  194:9    warning  'MathJax' is not defined                        no-undef
+  197:10   warning  'a1_verify_Q_B' is defined but never used       no-unused-vars
+  199:17   warning  'Q_B' is not defined                            no-undef
+  200:10   warning  'verify_values' is not defined                  no-undef
+  200:47   warning  'Q_B' is not defined                            no-undef
+  214:32   warning  'Q_B' is not defined                            no-undef
+  221:27   warning  'Q' is not defined                              no-undef
+  221:80   warning  'Q_A' is not defined                            no-undef
+  221:135  warning  'Q_B' is not defined                            no-undef
+  232:24   warning  'Question_Options' is not defined               no-undef
+  236:9    warning  'MathJax' is not defined                        no-undef
+  249:24   warning  'Question_Options' is not defined               no-undef
+  258:10   warning  'activity_completed' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/js/activity2.js
+   2:10  warning  'activity2' is defined but never used      no-unused-vars
+   5:20  warning  'get_collapse_btn_text' is not defined     no-undef
+  34:5   warning  'maindiv' is not defined                   no-undef
+  36:5   warning  'hide_all_steps' is not defined            no-undef
+  38:9   warning  'MathJax' is not defined                   no-undef
+  41:9   warning  'show_step' is not defined                 no-undef
+  46:5   warning  'inc' is not defined                       no-undef
+  46:12  warning  'r_c' is not defined                       no-undef
+  46:18  warning  'r1' is not defined                        no-undef
+  47:43  warning  'inc' is not defined                       no-undef
+  47:54  warning  'inc' is not defined                       no-undef
+  48:33  warning  'T1' is not defined                        no-undef
+  48:38  warning  'T2' is not defined                        no-undef
+  48:60  warning  'r1' is not defined                        no-undef
+  48:66  warning  'K' is not defined                         no-undef
+  48:75  warning  'h' is not defined                         no-undef
+  49:9   warning  'Q_a2' is not defined                      no-undef
+  50:9   warning  'r2_a2' is not defined                     no-undef
+  52:5   warning  'r_c1' is not defined                      no-undef
+  52:24  warning  'r_c' is not defined                       no-undef
+  53:25  warning  'Q_a2' is not defined                      no-undef
+  54:26  warning  'r2_a2' is not defined                     no-undef
+  55:24  warning  'inc' is not defined                       no-undef
+  56:25  warning  'r_c1' is not defined                      no-undef
+  58:10  warning  'a2_verify_rc1' is defined but never used  no-unused-vars
+  60:17  warning  'r_c1' is not defined                      no-undef
+  61:10  warning  'verify_values' is not defined             no-undef
+  61:47  warning  'r_c1' is not defined                      no-undef
+  71:23  warning  'r_c1' is not defined                      no-undef
+  90:21  warning  'Chart' is not defined                     no-undef
+  93:21  warning  'r2_a2' is not defined                     no-undef
+  97:27  warning  'Q_a2' is not defined                      no-undef
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/js/data.js
+   6:5  warning  'L' is assigned a value but never used      no-unused-vars
+   8:5  warning  'r2' is assigned a value but never used     no-unused-vars
+   9:5  warning  'Q' is assigned a value but never used      no-unused-vars
+  10:5  warning  'r_c' is assigned a value but never used    no-unused-vars
+  11:5  warning  'thick_A' is defined but never used         no-unused-vars
+  12:5  warning  'thick_B' is defined but never used         no-unused-vars
+  13:5  warning  'R' is defined but never used               no-unused-vars
+  14:5  warning  'data' is assigned a value but never used   no-unused-vars
+  15:5  warning  'Q_A' is defined but never used             no-unused-vars
+  16:5  warning  'Q_B' is defined but never used             no-unused-vars
+  18:5  warning  'inc' is defined but never used             no-unused-vars
+  19:5  warning  'Q_a2' is assigned a value but never used   no-unused-vars
+  20:5  warning  'r2_a2' is assigned a value but never used  no-unused-vars
+  21:5  warning  'r_c1' is defined but never used            no-unused-vars
+
+/home/runner/work/exp-cirtical-radius-insulation-iitb/exp-cirtical-radius-insulation-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 201 problems (0 errors, 201 warnings)
+

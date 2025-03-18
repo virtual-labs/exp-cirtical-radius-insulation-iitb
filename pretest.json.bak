@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The critical radius of insulation for cylinder is given by",
+        "qid": 1,
+        "option_a": "$$ r_c = \\frac{h_2}{k_2} $$",
+        "option_b": "$$ r_c = \\frac{2k_2}{h_2} $$",
+        "option_c": "$$ r_c = \\frac{k_2}{h_2} $$",
+        "option_d": "$$ r_c = \\frac{2h_2}{k_2} $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "The critical radius of insulation for sphere is given by",
+        "qid": 2,
+        "option_a": "$$ r_c = \\frac{h_2}{k_2} $$",
+        "option_b": "$$ r_c = \\frac{2k_2}{h_2} $$",
+        "option_c": "$$ r_c = \\frac{k_2}{h_2} $$",
+        "option_d": "$$ r_c = \\frac{2h_2}{k_2} $$",
+        "correct_option": "b"
+    }
+]

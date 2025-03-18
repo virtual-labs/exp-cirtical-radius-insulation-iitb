@@ -1,0 +1,21 @@
+[
+    {
+        "question": "A pipe having radius 0.03m and 1m length maintained at 216°C and room temperature at 33°C. The outside heat transfer coefficient is 2.8W/m2-K. To reduce heat loss with the insulation of K = 0.09W/m-k. Find the heat transfer without insulation",
+        "qid": 1,
+        "option_a": "96.58 w",
+        "option_b": "98.23 w",
+        "option_c": "99.43 w",
+        "option_d": "92.23 w",
+        "correct_option": "a"
+    },
+
+    {
+        "question": "Calculate Heat transfer with insulation thickness 0.002m in above case",
+        "qid": 2,
+        "option_a": "92.987 w",
+        "option_b": "91.789 w",
+        "option_c": "94.432 w",
+        "option_d": "91.342w",
+        "correct_option": "c"
+    }
+]
